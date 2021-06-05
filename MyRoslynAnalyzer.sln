@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoslynAnalyzer", "MyRoslynAnalyzer\MyRoslynAnalyzer.csproj", "{CE42944E-8D6E-412A-A088-8961A89A0F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoslynAnalyzer.UnitTests", "MyRoslynAnalyzer.UnitTests\MyRoslynAnalyzer.UnitTests.csproj", "{9200FE7F-7E98-420A-ABE2-FDE2C020BF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE42944E-8D6E-412A-A088-8961A89A0F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE42944E-8D6E-412A-A088-8961A89A0F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE42944E-8D6E-412A-A088-8961A89A0F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE42944E-8D6E-412A-A088-8961A89A0F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9200FE7F-7E98-420A-ABE2-FDE2C020BF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9200FE7F-7E98-420A-ABE2-FDE2C020BF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9200FE7F-7E98-420A-ABE2-FDE2C020BF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9200FE7F-7E98-420A-ABE2-FDE2C020BF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
